@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "HTTPS=true vite",
+    "dev": "vite",
+    "dev:https": "HTTPS=true vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
