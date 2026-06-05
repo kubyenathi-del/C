@@ -15,6 +15,6 @@ export default defineConfig({
   server: {
     https: true,
     host: true,
-    allowedHosts: ['.vercel.run'],
+    allowedHosts: 'all',
   },
 });
