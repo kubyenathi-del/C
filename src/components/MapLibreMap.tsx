@@ -247,7 +247,7 @@ const createEtaBubble = (eta: number): HTMLElement => {
       color: white;
       padding: 4px 10px;
       border-radius: 50px;
-      font-size: 12px;
+      font-size: 1px;
       font-weight: 700;
       box-shadow: 0 2px 8px rgba(91, 46, 255, 0.35);
       white-space: nowrap;
