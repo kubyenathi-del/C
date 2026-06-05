@@ -245,11 +245,11 @@ const createEtaBubble = (eta: number): HTMLElement => {
     <div style="
       background: #5B2EFF;
       color: white;
-      padding: 6px 14px;
-      border-radius: 20px;
-      font-size: 14px;
+      padding: 4px 10px;
+      border-radius: 50px;
+      font-size: 12px;
       font-weight: 700;
-      box-shadow: 0 4px 12px rgba(91, 46, 255, 0.35);
+      box-shadow: 0 2px 8px rgba(91, 46, 255, 0.35);
       white-space: nowrap;
       position: relative;
     ">
